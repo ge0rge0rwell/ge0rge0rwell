@@ -1,7 +1,7 @@
 <h1 align="center">Oğuzhan Acar 👋</h1>
 
 <p align="center">
-Middle School Student • Robotics Enthusiast • Linux User • Cybersecurity & LLM Enthusiast • FTC & FRC Enthusiast • Builder
+14 years old • Middle School Student • Robotics Enthusiast • Linux User • Cybersecurity & LLM Enthusiast • FTC & FRC Enthusiast • Builder
 </p>
 
 ---
